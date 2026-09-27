@@ -1,106 +1,91 @@
-# 🎮 Tic Tac Toe
+# ☕ Coffee Website
 
-A responsive and interactive **Tic Tac Toe game** built using **HTML, CSS, and JavaScript**. This project focuses on creating a clean user interface while implementing game logic, player turns, winning conditions, and game reset functionality.
+A modern and responsive **Coffee Website** built using **HTML, CSS, and JavaScript**. This project focuses on creating an attractive coffee-themed interface with a clean layout, engaging visuals, and interactive frontend elements.
 
 ## 🚀 Live Demo
 
-🔗 **Live Demo:** [Add your live demo link here]
+🔗 **[View Live Website](ADD-YOUR-LIVE-DEMO-LINK-HERE)**
 
-## 📌 Features
+## 📸 Preview
 
-* 🎮 Two-player Tic Tac Toe gameplay
-* 🔄 Automatic player turn switching
-* 🏆 Win detection
-* 🤝 Draw detection
-* 🔁 Restart / New Game functionality
-* 🎨 Clean and modern user interface
-* 📱 Responsive design
-* ⚡ Instant game updates using JavaScript
+![Coffee Website Preview](Preview.png)
+
+> Replace `screenshot.png` with your actual website screenshot.
+
+## ✨ Features
+
+* ☕ Modern coffee-themed design
+* 🏠 Responsive landing page
+* 📱 Mobile-friendly layout
+* 🍰 Coffee and product sections
+* 📖 About section
+* 📞 Contact section
+* 🧭 Easy navigation
+* ✨ Interactive frontend elements
+* 🎨 Clean and visually appealing UI
 
 ## 🛠️ Technologies Used
 
-| Technology     | Purpose                                |
-| -------------- | -------------------------------------- |
-| **HTML5**      | Structure of the game                  |
-| **CSS3**       | Styling, layout, and responsive design |
-| **JavaScript** | Game logic and interactivity           |
+| Technology     | Purpose                                         |
+| -------------- | ----------------------------------------------- |
+| **HTML5**      | Website structure and content                   |
+| **CSS3**       | Styling, layout, animations, and responsiveness |
+| **JavaScript** | Interactivity and dynamic functionality         |
 
 ## 📂 Project Structure
 
 ```text
-Tic-Tac-Toe/
+Coffee-Website/
 │
 ├── index.html
 ├── style.css
 ├── script.js
+├── images/
+│   └── ...
 └── README.md
 ```
 
-## ⚙️ How to Run Locally
+## 💻 Run Locally
 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Mahnoor-Hassan/tic-tac-toe.git
+git clone https://github.com/Mahnoor-Hassan/coffee-website.git
 ```
 
 ### 2. Open the Project
 
-Navigate to the project directory:
-
 ```bash
-cd tic-tac-toe
+cd coffee-website
 ```
 
-### 3. Run the Game
+### 3. Run the Website
 
-Open `index.html` in your preferred web browser.
+Open `index.html` in your browser.
 
-No additional installation or dependencies are required.
-
-## 🧠 How the Game Works
-
-The game uses **JavaScript** to control the game logic.
-
-1. Players take turns placing **X** and **O** on the board.
-2. JavaScript tracks the selected cells.
-3. After each move, the game checks the possible winning combinations.
-4. If a player completes a winning combination, the winner is displayed.
-5. If all cells are filled without a winner, the game is declared a draw.
-6. Players can restart the game and play again.
+No additional dependencies are required.
 
 ## 🎯 Project Goals
 
-This project was developed as a frontend practice project to strengthen my understanding of:
+This project was created as a frontend practice project to improve my understanding of:
 
-* DOM manipulation
-* JavaScript event handling
-* Conditional logic
-* Arrays and game-state management
-* HTML structure
-* CSS layouts and styling
-* Responsive web design
-* Building interactive web applications
-
-## 📸 Screenshots
-
-Add screenshots of your game here:
-
-```markdown
-![Tic Tac Toe Game](screenshot.png)
-```
+* Semantic HTML structure
+* CSS layouts and responsive design
+* JavaScript DOM manipulation
+* Event handling
+* Website navigation
+* Creating visually appealing user interfaces
+* Organizing frontend projects
 
 ## 🔮 Future Improvements
 
-Some possible improvements for future versions include:
-
-* 🤖 Single-player mode with AI
-* 🏆 Scoreboard and match history
-* 🎨 Additional themes
-* 🔊 Sound effects
-* ✨ Animations for winning combinations
-* 🌙 Dark/Light mode
-* 💾 Persistent score tracking
+* 🛒 Add shopping cart functionality
+* 💳 Add online ordering and checkout
+* 👤 Add user authentication
+* ⭐ Add customer reviews
+* 📍 Add store location integration
+* 📧 Add functional contact form
+* 🌙 Add dark/light mode
 
 ## 👩‍💻 Author
 
@@ -108,7 +93,7 @@ Some possible improvements for future versions include:
 
 Software Engineering Student
 
-🔗 GitHub: [Mahnoor-Hassan](https://github.com/Mahnoor-Hassan)
+🔗 [GitHub](https://github.com/Mahnoor-Hassan)
 
 ---
 
