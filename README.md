@@ -4,13 +4,13 @@ A modern and responsive **Coffee Website** built using **HTML, CSS, and JavaScri
 
 ## 🚀 Live Demo
 
-🔗 **[View Live Website](ADD-YOUR-LIVE-DEMO-LINK-HERE)**
+🔗 **[View Live Website](https://mahnoor-hassan.github.io/coffee-website/)**
 
 ## 📸 Preview
 
 ![Coffee Website Preview](Preview.png)
 
-> Replace `screenshot.png` with your actual website screenshot.
+
 
 ## ✨ Features
 
